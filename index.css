@@ -1,0 +1,19 @@
+#md{
+    border: 2px solid black;
+    width: 50vw;
+    height: 50vh;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+button{
+    text-align: center;
+    width: 35px;
+}
+
+#input{
+    width: 28vw;
+}
