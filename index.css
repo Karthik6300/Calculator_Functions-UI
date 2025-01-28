@@ -1,0 +1,29 @@
+#md {
+  border: 2px solid black;
+  width: 65vw;
+  height: fit-content;
+  padding: 10px;
+  margin: auto;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 25px;
+}
+button {
+  border-color: transparent;
+  text-align: center;
+  width: 4.5rem;
+  font-size: xx-large;
+  padding: 10px;
+  border-radius: 10px;
+}
+#input {
+  width: 55vw;
+  padding: 30px;
+}
+div {
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+}
